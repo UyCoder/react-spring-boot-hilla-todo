@@ -1,3 +1,14 @@
+# Spring project with Hilla
+
+## I created this project with this simple steps
+1. I just simply enter the powershell `npx @hilla/cli init --react todo` and it brings me the whole project.
+this is awesome.
+2. Then I simply enter `cd todo` and after going to todo folder execute the command `idea .` it will open the project with Intellij Idea.
+3. After project opened in Intellij I added h2 databse and jpa dependencies without version infos in POM.xml file.
+4. Run the project. It takes about a minute then establish the front-end prject automatically.
+
+
+
 # Custom project from Hilla
 
 This project can be used as a starting point to create your own Hilla application with Spring Boot.
